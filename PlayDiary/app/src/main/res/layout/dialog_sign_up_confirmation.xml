@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/background_dialog_sign_up_confirmation"
+    android:paddingBottom="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Confirmation Code"
+            android:textSize="18sp"
+            android:textColor="@color/playDiaryBlack"
+            android:id="@+id/title"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:paddingBottom="30dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:background="#AAAAAA"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="Enter 6-digit confirmation code sent to you mobile device."
+        android:textSize="16sp"
+        android:layout_marginLeft="5dp"
+        android:textColor="@color/playDiaryBlack"
+        android:id="@+id/message"/>
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:id="@+id/confirmationCode"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:padding="7dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/confirmConfirmationCode"
+        android:layout_marginTop="10dp"
+        android:text="Ok"
+        android:clickable="true"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="17sp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:background="@drawable/background_create_account_button"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>
