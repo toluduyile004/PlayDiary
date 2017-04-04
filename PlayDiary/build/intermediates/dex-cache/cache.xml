@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_802fdba932ab7471bf44dfbad0e14c694a107708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_57f7b1730351c9e30450bc7848b8dfbb99fc3abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62a15d7e941bc629d2f8bc30bffc9079089cc9df">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\instant-run_acc8b9cdbfac6f22e8ea8cecf9a5e45e6188470f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_ca22fc89ea624ef12dd06991e3832a76bf3ccb6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_57f7b1730351c9e30450bc7848b8dfbb99fc3abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_cddf11eeaa75d243f0056c22e64384db0dce0b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_a05250e7f515e34f3b825db698d2aa943d9bac15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_cddf11eeaa75d243f0056c22e64384db0dce0b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_802fdba932ab7471bf44dfbad0e14c694a107708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_ca22fc89ea624ef12dd06991e3832a76bf3ccb6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40f10085d03b729043f50543a640fcb33e0439be">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4415a2dc65523bdf5e9807c891425941a4158b61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\BALE\Downloads\CareerLed\PlayDiary\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_a05250e7f515e34f3b825db698d2aa943d9bac15.jar" />
+    </item>
+
+</items>

@@ -1,7 +1,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
     tools:context="com.example.playdiary.playdiary.MainActivity">
+=======
+    tools:context=".ActivitySplash">
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"

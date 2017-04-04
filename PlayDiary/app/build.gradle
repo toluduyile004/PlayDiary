@@ -1,13 +1,22 @@
 apply plugin: 'com.android.application'
 
 android {
+<<<<<<< HEAD
     compileSdkVersion 22
+=======
+    compileSdkVersion 23
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
     buildToolsVersion "23.0.1"
 
     defaultConfig {
         applicationId "com.example.playdiary.playdiary"
+<<<<<<< HEAD
         minSdkVersion 16
         targetSdkVersion 22
+=======
+        minSdkVersion 14
+        targetSdkVersion 23
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
         versionCode 1
         versionName "1.0"
     }
@@ -22,6 +31,11 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
+<<<<<<< HEAD
     compile 'com.android.support:appcompat-v7:22.2.0'
     compile 'com.android.support:design:22.2.1'
+=======
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:design:23.1.1'
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
 }

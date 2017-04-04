@@ -1,5 +1,6 @@
 package com.example.playdiary.playdiary;
 
+<<<<<<< HEAD
 import android.content.Intent;
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -111,3 +112,19 @@ public class ActivitySignIn extends AppCompatActivity {
         }
     }
 }
+=======
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+/**
+ * Created by Engr. TeeBoy on 19/11/2016.
+ */
+public class ActivitySignIn  extends AppCompatActivity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_signin);
+
+    }
+}
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b

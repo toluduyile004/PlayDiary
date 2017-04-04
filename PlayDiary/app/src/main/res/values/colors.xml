@@ -3,5 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+<<<<<<< HEAD
     <color name="playDiaryBlack">#000000</color>
+=======
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
 </resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.playdiary.playdiary.ActivityDefault" android:background="#FFFFFF">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bg03"
+            android:scaleType="centerCrop"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#AAAAAA"
+            android:alpha="0.5"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="40dp"
+                android:layout_alignParentTop="true">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_height="240dp"
+                    android:layout_gravity="center_horizontal"
+                    android:scaleType="centerInside"
+                    android:id="@+id/welcomeImage"
+                    android:src="@drawable/banner"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_alignParentBottom="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/past"
+                        android:textSize="16sp"
+                        android:text="Past"
+                        android:textColor="@color/playDiaryBlack"/>
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/link" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/present"
+                        android:textSize="16sp"
+                        android:text="Present"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="@color/playDiaryBlack"/>
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/link" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/future"
+                        android:textSize="16sp"
+                        android:text="Future"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="@color/playDiaryBlack"/>
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Log In"
+                    android:id="@+id/loginButton"
+                    android:gravity="center"
+                    android:textSize="17sp"
+                    android:clickable="true"
+                    android:paddingTop="14dp"
+                    android:paddingBottom="14dp"
+                    android:background="@color/playDiaryBlack"
+                    android:textColor="#FFFFFF"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Sign Up"
+                    android:id="@+id/signUpButton"
+                    android:gravity="center"
+                    android:layout_marginBottom="2dp"
+                    android:textSize="17sp"
+                    android:clickable="true"
+                    android:paddingTop="14dp"
+                    android:paddingBottom="14dp"
+                    android:background="@color/playDiaryBlack"
+                    android:textColor="#FFFFFF"/>
+
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>
+
+

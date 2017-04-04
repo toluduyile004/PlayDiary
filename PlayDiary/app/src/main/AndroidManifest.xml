@@ -4,20 +4,29 @@
 
     <application
         android:allowBackup="true"
+<<<<<<< HEAD
         android:icon="@drawable/sample_logo_small"
+=======
+        android:icon="@mipmap/ic_launcher"
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
             android:name=".ActivitySplash"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/AppTheme">
+=======
+            android:theme="@style/AppTheme.NoActionBar">
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".ActivityDefault"
             android:screenOrientation="portrait"
@@ -54,6 +63,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".ActivityFeed" />
         </activity>
+=======
+        <activity android:name=".ActivitySignIn"></activity>
+>>>>>>> 935e08bfff1d957224d552bc41cb6381151f361b
     </application>
 
 </manifest>
